@@ -4,10 +4,10 @@
 
 Again, this homework is similar to something you might have done in CSCI 161. 
 
-# Objective:
+## Objective:
 
 Loops with input, strings, arrays, and output.
-# Assignment:
+## Assignment:
 Once word gets out that you know how to program, it’s a bit amazing how many people suddenly need software written. This is a variation of some software I wrote while volunteering.
 
 Basically, it’s an organization that accepts used books and then sells them a couple of times a year at book sale events. Some way (other than a notebook and pencil) was needed to keep track of the inventory. So, here’s where you come in.
